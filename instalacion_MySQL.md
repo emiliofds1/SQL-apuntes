@@ -3,7 +3,7 @@ CREACION BASE DE DATOS CON ELEPHANTSQL
 ElephantSQL es una plataformade hosting de bases de datos, la cual usaremos para para nuestra base
 
 ## Hostear BD
-Lo primero que tendremos que hacer es registrrnos en ElephantSQL. Una vez registrado, solo tendremos que darle al boton de crear una nueva instancia.
+Lo primero que tendremos que hacer es registrarnos en ElephantSQL. Una vez registrado, solo tendremos que darle al boton de crear una nueva instancia.
 Tras esto nos mandará que elijamos el plan de la instancia. Cada plan indica las limitaciones que tendra nuestra base de datos, en este caso usaremos el plan Tiny Turtle ya que es el plan gratuito.
 Una vez seleccionado el plan, solo tendremos que introducir los datos de la base de datos como su nombre y donde queremos que sea hosteada.
 Finalmente podremos ver en panel de datos, todo lo necesario para entrar en ella.
